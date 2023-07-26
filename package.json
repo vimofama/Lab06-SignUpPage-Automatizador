@@ -1,0 +1,20 @@
+{
+  "name": "lab06-signuppage-automatizador",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene una implementación básica de un sistema de inicio de sesión (login) y registro (signup)\r utilizando tecnologías web como HTML, CSS y JavaScript. El objetivo es proporcionar un ejemplo sencillo pero funcional\r de cómo se pueden crear estas funcionalidades en un sitio web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "author": "Mateo Morales",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "firebase": "^8.6.8"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
